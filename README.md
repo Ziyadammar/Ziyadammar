@@ -5,9 +5,9 @@ I made this project as apart of training machine learning in AI approach club. I
 Objective
 This project aimed to: • See the factors that will enhance the model training. • show the difference among many ML algorithms. • discover which algorithm is more accurate.
 
-About the dataset
-  this dataset is about financial services in different banks and have a 5 column
 
+  About Dataset
+This dataset contains financial information for the top 500 companies in India, including their market capitalization and quarterly sales. The data is categorized based on market cap and sales quartiles, allowing for detailed analysis and comparison. This dataset can be used to identify trends, patterns, and key metrics that are crucial for understanding the competitive landscape in the Indian market.
 Steps
 Importing Libraries
 Access to csv file in my drive files
